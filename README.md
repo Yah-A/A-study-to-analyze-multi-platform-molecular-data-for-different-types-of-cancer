@@ -1,4 +1,4 @@
-# A-study-to-analyze-multi-platform-molecular-data-for-different-types-of-cancer
+# A-study-to-analyze-multi-platform-molecular-data-for-different-types-of-cancers
 Grad Project of CIT 660 - Statistical Analysis and Visualization, Nile University
 
 Project Description:
